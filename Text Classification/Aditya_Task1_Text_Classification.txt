@@ -1,0 +1,8 @@
+Feature Extractor	Algorithm	Accuracy
+CountVectorizer	Logistic Regression	0.6679045092838196
+CountVectorizer	Multinomial Naive Bayes	0.6175066312997347
+CountVectorizer	Decision Trees	0.44641909814323605
+Word2Vec	Logistic Regression	0.4217506631299735
+Word2Vec	Support Vector Machines	0.376657824933687
+Word2Vec	Decision Trees	0.19575596816976126
+CountVectorizer	Support Vector Machines	0.14668435013262598
