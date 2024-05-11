@@ -1,0 +1,12 @@
+Natural Language Processing (NLP)
+Machine Learning
+Data Visualization
+Deep Learning
+Time Series Analysis
+Computer Vision
+Recommendation Systems
+Data Preprocessing and Cleaning
+Statistics and Hypothesis Testing
+Domain-Specific Projects
+Unstructured Data Analysis
+Big Data and Distributed Computing
